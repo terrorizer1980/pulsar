@@ -89,7 +89,7 @@ flexible messaging model and an intuitive client API.</description>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <redirectTestOutputToFile>true</redirectTestOutputToFile>
-    <test.additional.args></test.additional.args>
+    <test.additional.args/>
     <testReuseFork>true</testReuseFork>
     <testForkCount>4</testForkCount>
     <testRealAWS>false</testRealAWS>
@@ -113,7 +113,7 @@ flexible messaging model and an intuitive client API.</description>
     <jetty.version>9.4.42.v20210604</jetty.version>
     <conscrypt.version>2.5.2</conscrypt.version>
     <jersey.version>2.34</jersey.version>
-    <athenz.version>1.10.9</athenz.version>
+    <athenz.version>1.10.56</athenz.version>
     <prometheus.version>0.5.0</prometheus.version>
     <vertx.version>3.5.4</vertx.version>
     <rocksdb.version>6.10.2</rocksdb.version>
