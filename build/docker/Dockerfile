@@ -17,7 +17,7 @@
 # under the License.
 #
 
-FROM ubuntu:16.04
+FROM ubuntu:xenial-20201014
 
 # prepare the directory for pulsar related files
 RUN mkdir /pulsar
