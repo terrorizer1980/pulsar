@@ -1,5 +1,5 @@
 chardet
-Django <2.0
+Django<4.2.24
 hexdump
 psycopg2
 pulsar-client
